@@ -4,6 +4,8 @@ import numpy as np
 #import seaborn as sns
 #import warnings
 #warnings.filterwarnings("ignore", category=DeprecationWarning) 
+#import nltk
+import sklearn
 from sklearn.preprocessing import StandardScaler
 import warnings
 import random
